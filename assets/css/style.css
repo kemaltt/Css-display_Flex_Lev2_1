@@ -6,10 +6,11 @@
 
 section {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 img {
     margin: 2px;
+    border-radius: 10px;
 }
